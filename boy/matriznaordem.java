@@ -2,7 +2,7 @@ package boy;
 
 import java.util.Random;
 
-public class matrizemordem {
+public class matriznaordem {
 
 	public static void main(String[] args) {
 		Random rand = new Random();

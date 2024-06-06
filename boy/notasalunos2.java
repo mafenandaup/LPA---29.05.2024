@@ -1,8 +1,8 @@
-package estudopessoal;
+package boy;
 
 import java.util.Random;
 
-public class oiee {
+public class notasalunos2 {
 
 	public static void main(String[] args) {
 		String alunos[] = { "clara", "maria", "jones", "ednaldo", "debora" };
